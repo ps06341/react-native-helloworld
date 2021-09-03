@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "linhhylie_mobile_app",
+    "slug": "linhhylie_mobile_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "linhhylie_mobile_app"
+}
